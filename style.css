@@ -1,0 +1,43 @@
+.whole{
+  background-color:orange;
+  width: 700px;
+  height: 1000px;
+}
+.heading{
+  padding: 20px;
+  height: 110px;
+  width: 620px;
+  background-color:rgb(253, 57, 57);
+  position: relative;
+  left: 20px;
+  top: 20px;
+  border-radius: 20px;
+}
+.image {
+  position: relative;
+  left: 185px;
+  width: 450px;
+  height: 202px;
+  top: 20px;
+}
+.img1{
+  border-radius: 20px;
+}
+.imgcaption{
+  border-radius: 20px;
+  position: relative;
+  background-color: rgb(245, 41, 41);
+  width: 256px;
+}
+.form1{
+  position: relative;
+  top: 0px;
+  left: 20px;
+  border-radius: 20px;
+  padding: 20px;
+  width: 620px;
+  background-color:rgb(253, 57, 57);
+  color:black;
+  font-style: normal;
+  font-family: inherit;
+}
