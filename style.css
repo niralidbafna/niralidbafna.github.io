@@ -21,9 +21,7 @@
   height: 202px;
   top: 20px;
 }
-.img1{
-  /* border-radius: 20px; */
-}
+
 .imgcaption{
   /* border-radius: 20px; */
   position: relative;
@@ -48,9 +46,4 @@ a{
 }
 a:hover{
   color: #e9cd73fa;
-}
-.file{
-  background-color: green;
-  width: 70px;
-
 }
